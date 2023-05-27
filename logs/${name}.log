@@ -1,0 +1,5 @@
+[INFO ] 2023-05-27 12:35:20.217 [main] LogBasic - Method is Start
+[DEBUG] 2023-05-27 12:35:20.222 [main] LogBasic - Method is debug
+[WARN ] 2023-05-27 12:35:20.222 [main] LogBasic - Method is warning
+[FATAL] 2023-05-27 12:35:20.223 [main] LogBasic - Method is fatal
+[ERROR] 2023-05-27 12:35:20.223 [main] LogBasic - Method is error

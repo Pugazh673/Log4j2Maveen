@@ -1,0 +1,40 @@
+[INFO ] 2023-05-27 12:33:44.220 [main] LogBasic - Method is Start
+[DEBUG] 2023-05-27 12:33:44.225 [main] LogBasic - Method is debug
+[WARN ] 2023-05-27 12:33:44.225 [main] LogBasic - Method is warning
+[FATAL] 2023-05-27 12:33:44.225 [main] LogBasic - Method is fatal
+[ERROR] 2023-05-27 12:33:44.225 [main] LogBasic - Method is error
+[INFO ] 2023-05-27 12:36:14.303 [main] LogBasic - Method is Start
+[DEBUG] 2023-05-27 12:36:14.308 [main] LogBasic - Method is debug
+[WARN ] 2023-05-27 12:36:14.309 [main] LogBasic - Method is warning
+[FATAL] 2023-05-27 12:36:14.309 [main] LogBasic - Method is fatal
+[ERROR] 2023-05-27 12:36:14.309 [main] LogBasic - Method is error
+[INFO ] 2023-05-27 12:37:13.812 [main] LogBasic - Method is Start
+[DEBUG] 2023-05-27 12:37:13.823 [main] LogBasic - Method is debug
+[WARN ] 2023-05-27 12:37:13.824 [main] LogBasic - Method is warning
+[FATAL] 2023-05-27 12:37:13.824 [main] LogBasic - Method is fatal
+[ERROR] 2023-05-27 12:37:13.825 [main] LogBasic - Method is error
+[INFO ] 2023-05-27 12:58:39.654 [main] LogBasic - Method is Start
+[DEBUG] 2023-05-27 12:58:39.668 [main] LogBasic - Method is debug
+[WARN ] 2023-05-27 12:58:39.669 [main] LogBasic - Method is warning
+[FATAL] 2023-05-27 12:58:39.670 [main] LogBasic - Method is fatal
+[ERROR] 2023-05-27 12:58:39.671 [main] LogBasic - Method is error
+[INFO ] 2023-05-27 13:04:20.778 [main] LogBasic - Method is Start
+[DEBUG] 2023-05-27 13:04:20.787 [main] LogBasic - Method is debug
+[WARN ] 2023-05-27 13:04:20.788 [main] LogBasic - Method is warning
+[FATAL] 2023-05-27 13:04:20.789 [main] LogBasic - Method is fatal
+[ERROR] 2023-05-27 13:04:20.789 [main] LogBasic - Method is error
+[INFO ] 2023-05-27 13:04:49.449 [main] LogBasic - Method is Start
+[DEBUG] 2023-05-27 13:04:49.459 [main] LogBasic - Method is debug
+[WARN ] 2023-05-27 13:04:49.460 [main] LogBasic - Method is warning
+[FATAL] 2023-05-27 13:04:49.461 [main] LogBasic - Method is fatal
+[ERROR] 2023-05-27 13:04:49.462 [main] LogBasic - Method is error
+[INFO ] 2023-05-27 13:07:25.764 [main] LogBasic - Method is Start
+[DEBUG] 2023-05-27 13:07:25.774 [main] LogBasic - Method is debug
+[WARN ] 2023-05-27 13:07:25.775 [main] LogBasic - Method is warning
+[FATAL] 2023-05-27 13:07:25.775 [main] LogBasic - Method is fatal
+[ERROR] 2023-05-27 13:07:25.776 [main] LogBasic - Method is error
+[INFO ] 2023-05-27 13:08:52.888 [main] LogBasic - Method is Start
+[DEBUG] 2023-05-27 13:08:52.899 [main] LogBasic - Method is debug
+[WARN ] 2023-05-27 13:08:52.900 [main] LogBasic - Method is warning
+[FATAL] 2023-05-27 13:08:52.900 [main] LogBasic - Method is fatal
+[ERROR] 2023-05-27 13:08:52.901 [main] LogBasic - Method is error
